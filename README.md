@@ -13,3 +13,11 @@ Una vez ejecutado se tendra listo la herramienta.
 ![{3BE86715-EA31-4D01-9B81-18EA3B1AA8FE}](https://github.com/user-attachments/assets/d5fee553-899d-40cc-a861-0871f8f08240)
 Y listo. [Por favor, si detecta algun bug o error contacte al creador "bloodyzeze."
 (Si usted desea mas opciones con gusto puede comprar la version premium)
+
+
+Instalacion.
+1. Abra CMD
+2. Escriba el siguiente comando y espere a que termine. [pip install requests phonenumbers rich psutil]
+3. Despues escriba "Exit" y reinicie el PC.
+pip install requests phonenumbers rich psutil
+
