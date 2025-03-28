@@ -181,7 +181,7 @@ class BloodyBasicOSINT:
             "[bold red]PRECIO: $299.90/MES[/]\n"
             "[bold yellow]50% DESCUENTO - OFERTA 72H![/]\n\n"
             "[white]ACTIVA AHORA:[/]\n"
-            "[bold]discord.gg/bloodyzeze[/]",
+            "[bold]https://discord.gg/PZgZHCXu[/]",
             title="[bold red]💀 ACTUALIZA O TERMINA 💀[/]",
             border_style="bold red"
         )
